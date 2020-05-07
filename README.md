@@ -11,4 +11,4 @@ It is composed of two folders: data and code.
     ==: variable name
     ==: location (path)
     
-/code/: the source code of the proposed approach
+/code/NonsenseVariableNames: the source code of the proposed approach
