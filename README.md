@@ -1,6 +1,7 @@
 # replicationPackage
 
 It is composed of two folders: data and code.
+
 /data/: the data set for Nonsense Variable Names
     ==: label (0: meaningful 1: nonsense)
     ==: line number
@@ -8,4 +9,5 @@ It is composed of two folders: data and code.
     ==: data type of variable 
     ==: variable name
     ==: location (path)
+    
 /code/: the source code of the proposed approach
